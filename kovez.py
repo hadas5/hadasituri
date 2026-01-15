@@ -1,1 +1,1 @@
-print("hey0232923")
+print("hey")
